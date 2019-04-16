@@ -1,0 +1,4 @@
+JMH S 27 benchmark.SerializationTest S 72 benchmark.generated.SerializationTest_testMagicalDeserialization_jmhTest S 26 testMagicalDeserialization S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 27 benchmark.SerializationTest S 70 benchmark.generated.SerializationTest_testRegularSerialization_jmhTest S 24 testRegularSerialization S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 27 benchmark.SerializationTest S 72 benchmark.generated.SerializationTest_testRegularDeserialization_jmhTest S 26 testRegularDeserialization S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 27 benchmark.SerializationTest S 70 benchmark.generated.SerializationTest_testMagicalSerialization_jmhTest S 24 testMagicalSerialization S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
